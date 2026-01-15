@@ -501,14 +501,14 @@ h3 {
     text-align: center;
 }
 
+.contact-section h2 {
+    justify-content: center;
+}
+
 .contact-section .intro {
     max-width: 800px;
     margin: 0 auto var(--spacing-xl) auto;
     text-align: center;
-}
-
-.contact-section h2 {
-    justify-content: center;
 }
 
 .contact-grid {
